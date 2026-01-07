@@ -1,4 +1,7 @@
 I'm making 60% layout keyboard pcb for happyhacking, and other layouts.
+Unified Daughterboard
+zmk
+can used in dz60 and gh60.
 
 used parts
 mcu module - E73-2G4M08S1C   
