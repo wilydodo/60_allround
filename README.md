@@ -4,7 +4,7 @@ can used in dz60 and gh60.
 
 firmware: zmk
 
-<img width="1179" height="661" alt="Image" src="https://github.com/user-attachments/assets/0fb2df68-9a7c-43b9-b1ab-6778415f2430" />
+<img width="1437" height="763" alt="Image" src="https://github.com/user-attachments/assets/3cfd6a92-7485-4387-b8b2-fd35a6009d4e" />
 
 used parts
 mcu module - E73-2G4M08S1C   
